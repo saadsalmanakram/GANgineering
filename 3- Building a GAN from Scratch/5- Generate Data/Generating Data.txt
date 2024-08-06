@@ -1,0 +1,1 @@
+After training, use the Generator to create new data samples by passing in random noise and outputting generated instances.
