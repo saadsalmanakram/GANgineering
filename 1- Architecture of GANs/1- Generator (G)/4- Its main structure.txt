@@ -1,0 +1,11 @@
+- Input Layer: Accepts a noise vector (z) sampled from a distribution like normal or uniform.
+
+- Fully Connected Layer: Reshapes the noise vector into a feature map.
+
+- Transposed Convolutional Layers: Upsample the input noise, increasing the spatial resolution to build detailed features. These layers are key for generating higher-dimensional outputs like images.
+
+- Batch Normalization: Stabilizes and accelerates training by normalizing the output of layers.
+ 
+- Activation Functions:
+  1- ReLU: Used in intermediate layers for non-linearity.
+  2- Tanh: Commonly used in the output layer, especially when generating images normalized to [-1, 1].  
