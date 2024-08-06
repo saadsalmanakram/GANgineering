@@ -1,0 +1,1 @@
+Obtain and preprocess the dataset you want to generate data for, such as normalizing images to the appropriate range.
