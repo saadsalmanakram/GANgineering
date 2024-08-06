@@ -1,0 +1,3 @@
+- Build the Generator with transposed convolutional layers, batch normalization, and activation functions to transform noise into realistic data.
+
+- Build the Discriminator with convolutional layers, batch normalization, and activation functions to classify data as real or fake.
