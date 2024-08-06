@@ -1,0 +1,1 @@
+GANs use a min-max loss function, where the Generator tries to minimize the Discriminator's ability to correctly identify fake data, and the Discriminator tries to maximize its ability to do so. 
