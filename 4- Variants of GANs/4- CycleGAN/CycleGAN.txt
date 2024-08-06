@@ -1,0 +1,12 @@
+- Developed: 2017
+
+- Developed by: Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A. Efros
+
+- Definition: CycleGAN is designed for image-to-image translation tasks without requiring paired datasets. It learns to translate images between two domains by using cycle consistency loss to ensure that an image translated to another domain and back remains unchanged.
+
+- Key Features:
+  1- Utilizes two generators and two discriminators for the two domains.
+  2- Introduces cycle consistency loss to enforce that translation to another domain and back results in the original image.
+  3- Works without needing paired training data, which is often difficult to obtain.
+
+- Purpose: To perform image-to-image translation between two different domains (e.g., converting a photo to a painting style) without the need for paired training examples.
