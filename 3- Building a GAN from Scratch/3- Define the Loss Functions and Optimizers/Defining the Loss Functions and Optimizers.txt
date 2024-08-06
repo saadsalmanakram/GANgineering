@@ -1,0 +1,3 @@
+- Use binary cross-entropy loss for both the Generator and Discriminator.
+
+- Choose an optimizer like Adam and set appropriate learning rates.
