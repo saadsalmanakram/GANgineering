@@ -1,0 +1,12 @@
+- Developed: 2017
+
+- Developed by: Martin Arjovsky, Soumith Chintala, Léon Bottou
+
+- Definition: WGAN is a GAN variant that improves the stability and convergence of GAN training by using the Wasserstein distance as a loss function, which provides more reliable gradients and mitigates issues like mode collapse.
+
+- Key Features:
+  1- Uses Wasserstein distance (Earth Mover's Distance) as a loss function.
+  2- Replaces the discriminator with a "critic" network that scores realness instead of classifying real vs. fake.
+  3- Enforces a Lipschitz constraint through weight clipping or gradient penalty.
+
+- Purpose: To enhance the stability and reliability of GAN training, making it easier to train GANs and produce more diverse and higher-quality outputs.
