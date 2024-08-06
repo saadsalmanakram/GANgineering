@@ -1,0 +1,11 @@
+- Developed: 2014
+
+- Developed by: Mehdi Mirza and Simon Osindero
+
+- Definition: CGAN is a type of GAN where both the generator and discriminator are conditioned on additional information (like a class label), enabling the generation of data that adheres to specific conditions.
+
+- Key Features:
+  1- Introduces conditional variables as input to both generator and discriminator. 
+  2- Enables control over the generated output by conditioning on specific attributes or categories.
+
+- Purpose: To generate data (e.g., images, text) that belongs to a specific class or category, allowing for more controlled and targeted data generation.
