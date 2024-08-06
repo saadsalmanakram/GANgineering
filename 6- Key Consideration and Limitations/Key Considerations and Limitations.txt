@@ -1,0 +1,5 @@
+- Mode Collapse: A common issue where the Generator produces a limited variety of outputs. Techniques like adding noise to the Discriminator's input or using minibatch discrimination can help mitigate this.
+
+- Training Stability: GANs can be notoriously difficult to train due to the adversarial nature of the networks. Techniques like learning rate scheduling, gradient clipping, or using different loss functions (e.g., Wasserstein loss) can improve stability.
+
+- Evaluation: Evaluating GANs can be challenging since traditional metrics like accuracy don't apply. Metrics like Inception Score (IS) or Frechet Inception Distance (FID) are commonly used to evaluate the quality of generated images.
