@@ -1,0 +1,12 @@
+- Developed: 2015
+
+- Developed by: Alec Radford, Luke Metz, Soumith Chintala
+
+- Definition: DCGAN is an extension of GANs that incorporates deep convolutional networks into both the generator and discriminator, designed to improve the generation of realistic images.
+
+- Key Features:
+  1- Uses convolutional and transposed convolutional layers instead of fully connected layers.
+  2- Employs batch normalization to stabilize training.
+  3- Leaky ReLU activation functions are used to prevent issues like vanishing gradients.
+
+- Purpose: To generate more realistic and high-quality images, specifically to improve the performance of GANs in image synthesis tasks by leveraging the strengths of convolutional networks.
