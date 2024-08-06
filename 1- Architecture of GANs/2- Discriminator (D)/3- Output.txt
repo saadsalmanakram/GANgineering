@@ -1,0 +1,1 @@
+A probability score indicating whether the input data is real or fake.
