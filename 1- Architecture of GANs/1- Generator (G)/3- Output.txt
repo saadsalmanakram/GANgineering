@@ -1,0 +1,1 @@
+A synthetic data instance that mimics the real data distribution.
