@@ -1,0 +1,12 @@
+- Developed: 2018 (StyleGAN), 2019 (StyleGAN2)
+
+- Developed by: Tero Karras, Samuli Laine, Timo Aila (NVIDIA)
+
+- Definition: StyleGAN introduces a style-based generator architecture that allows for fine-grained control over different aspects of the generated image at different scales, producing high-resolution, highly detailed images with controllable styles.
+
+- Key Features:
+  1- Utilizes adaptive instance normalization (AdaIN) layers to inject style information at various layers of the generator.
+  2- Allows for disentanglement of image features, enabling independent control over aspects like overall style and fine details.
+  3- Employs progressive growing of networks to improve training stability and image resolution.
+
+- Purpose: To generate high-quality, high-resolution images with precise control over the style and attributes of the output, useful in applications like character design, art generation, and photo-realistic image synthesis.
