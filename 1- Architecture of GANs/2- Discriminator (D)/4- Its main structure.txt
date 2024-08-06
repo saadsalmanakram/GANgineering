@@ -1,0 +1,9 @@
+- Convolutional Layers: Extract spatial features by downsampling the input data, which helps differentiate between real and fake.
+
+- Batch Normalization: Applied to stabilize the learning process.
+
+- Leaky ReLU Activation: Introduces non-linearity while avoiding the "dying ReLU" problem by allowing small gradients when the unit is inactive.
+
+- Fully Connected Layer: Flattens the extracted features and processes them.
+
+- Sigmoid Activation: Outputs a probability between 0 and 1, indicating the likelihood of the input being real.
