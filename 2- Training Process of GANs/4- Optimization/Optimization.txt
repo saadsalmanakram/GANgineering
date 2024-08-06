@@ -1,0 +1,1 @@
+Both the Generator and Discriminator are updated in alternating steps using optimization algorithms like Stochastic Gradient Descent (SGD) or Adam.

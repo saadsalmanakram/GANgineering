@@ -1,0 +1,1 @@
+Measures how well the Discriminator distinguishes between real and fake data.
