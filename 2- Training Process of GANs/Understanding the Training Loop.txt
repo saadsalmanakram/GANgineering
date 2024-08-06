@@ -1,0 +1,11 @@
+Train Discriminator:
+- Sample real data from the dataset.
+- Generate fake data using the Generator.
+- Calculate and backpropagate the Discriminator's loss to update its weights.
+
+Train Generator:
+- Generate fake data again.
+- Calculate and backpropagate the Generator's loss to update its weights based on how well it fooled the Discriminator.
+
+Repeat:
+- Repeat these steps for many iterations, allowing the networks to gradually improve.
