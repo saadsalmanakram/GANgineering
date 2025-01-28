@@ -3,7 +3,7 @@
 
 # 🧠 GANgineering: A Comprehensive Guide to Generative Adversarial Networks (GANs)
 
-![](https://cdn.pixabay.com/photo/2023/01/13/22/11/ai-art-7716983_1280.jpg)
+! [](https://cdn.pixabay.com/photo/2023/01/13/22/11/ai-art-7716983_1280.jpg)
 
 Welcome to **GANgineering**, your ultimate resource for mastering **Generative Adversarial Networks (GANs)**! This repository provides a deep dive into GANs, covering everything from basic principles to advanced architectures, training techniques, and applications.
 
